@@ -1,0 +1,22 @@
+{
+  "name": "micros",
+  "version": "1.0.0",
+  "description": "Microservices based app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravisiyota/micros.git"
+  },
+  "author": "Ravindra Siyota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravisiyota/micros/issues"
+  },
+  "homepage": "https://github.com/ravisiyota/micros#readme",
+  "dependencies": {
+    "moleculer": "^0.14.18"
+  }
+}
